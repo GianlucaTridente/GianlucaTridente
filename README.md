@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-**GianlucaTridente/GianlucaTridente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there <Coders/> 👋
 
 - 🔭 I’m currently working on own pages
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React Js and Back-end
